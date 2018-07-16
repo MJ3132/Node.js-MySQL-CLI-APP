@@ -1,0 +1,24 @@
+{
+  "name": "node.js-mysql-cli-app",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with the MySQL, The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJ3132/Node.js-MySQL-CLI-APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJ3132/Node.js-MySQL-CLI-APP/issues"
+  },
+  "homepage": "https://github.com/MJ3132/Node.js-MySQL-CLI-APP#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "msql": "^1.0.3",
+    "mysql": "^2.15.0"
+  }
+}
